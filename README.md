@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&border_radius=49)
+[![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&border_radius=49)]
 
 
 Hello, \
