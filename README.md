@@ -33,3 +33,6 @@ My Projects:
 -
 
 - __[unviewed.xyz](https://unviewed.xyz)__ | A Development community
+
+
+![ME](https://discord-readme-badge.vercel.app/api?id=755112341548433489)
