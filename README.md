@@ -35,4 +35,4 @@ My Projects:
 - __[unviewed.xyz](https://unviewed.xyz)__ | A Development community
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=809ecf&animated=true&borderRadius=30px&)](https://discord.com/users/755112341548433489)
