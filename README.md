@@ -41,4 +41,4 @@ My Discord Profile:
 
 Used Languages:
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plushteddy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
