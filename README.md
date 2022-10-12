@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&border_radius=49)]
+[Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&border_radius=15)
 
 
 Hello, \
@@ -37,9 +37,9 @@ My Projects:
 
 Used Languages:
 -
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact&border_radius=49)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact&border_radius=15)](https://github.com/plushTeddy/)
 
 
 My Discord Profile:
 -
-[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=6495ed&animated=true&hideDiscrim=false&borderRadius=49px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=6495ed&animated=true&hideDiscrim=false&borderRadius=15px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
