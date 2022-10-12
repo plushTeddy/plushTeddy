@@ -37,8 +37,8 @@ My Projects:
 
 My Discord Profile:
 -
-[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=49px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=fffff&animated=true&hideDiscrim=false&borderRadius=49px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
 
 Used Languages:
 -
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact&border_radius=49)](https://github.com/anuraghazra/github-readme-stats)
