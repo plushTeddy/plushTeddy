@@ -5,7 +5,7 @@ Hello, \
 I'm _plushTeddy_
 -
 
-I'm a swiss student, coder and sailor.
+I'm a swiss _student_, _coder_ and _sailor_.
 
 
 My Skills:
