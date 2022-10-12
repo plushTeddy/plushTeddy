@@ -26,7 +26,7 @@ Currently learning:
 Wan't to learn:
 -
 
-- FPV drones
+- flying FPV drones
 
 
 My Projects:
