@@ -42,4 +42,4 @@ Used Languages:
 
 My Discord Profile:
 -
-[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=6495ed&animated=true&hideDiscrim=false&borderRadius=15px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=5094F0&animated=true&hideDiscrim=false&borderRadius=15px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
