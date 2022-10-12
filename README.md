@@ -35,4 +35,10 @@ My Projects:
 - __[unviewed.xyz](https://unviewed.xyz)__ | A Development community
 
 
+My Discord Profile:
+-
 [![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=49px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
+
+Used Languages:
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plushTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
