@@ -13,7 +13,6 @@ My Skills:
 
 - ILCA Sailing
 - Python Development
-- Pro in plain CSS UI creation
 
 
 Currently learning:
