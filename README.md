@@ -45,6 +45,6 @@ My Discord Profile:
 
 <p>
     <a href="https://discord.com/users/755112341548433489">
-        <img src="https://discord.c99.nl/widget/theme-4/883128445079547904.png"/>
+        <img src="https://discord.c99.nl/widget/theme-4/755112341548433489.png"/>
     </a>
 </p> 
