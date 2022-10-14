@@ -44,7 +44,7 @@ My Discord Profile:
 [![Discord](https://lanyard-profile-readme.vercel.app/api/755112341548433489?theme=light&bg=5094F0&animated=true&hideDiscrim=false&borderRadius=15px&hideTimestamp=true&)](https://discord.com/users/755112341548433489)
 
 <p>
-    <a href="https://discord.com/users/883128445079547904">
+    <a href="https://discord.com/users/755112341548433489">
         <img src="https://discord.c99.nl/widget/theme-4/883128445079547904.png"/>
     </a>
 </p> 
