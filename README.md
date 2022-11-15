@@ -1,7 +1,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&border_radius=15)](https://github.com/plushTeddy/)
 
 
-![Views](https://komarev.com/ghpvc/?username=plushTeddy&label=PROFILE+VIEWS&style=flat&color=dc143c)
+![Views](https://komarev.com/ghpvc/?username=plushTeddy&label=PROFILE+VIEWS&style=flat&color=5094F0)
 
 
 Hello, \
