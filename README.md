@@ -11,6 +11,12 @@ I'm _plushTeddy_
 I'm a swiss _student_, _coder_ and _sailor_.
 
 
+My Website:
+-
+
+- https://plushTeddy.dev/
+
+
 My Skills:
 -
 
