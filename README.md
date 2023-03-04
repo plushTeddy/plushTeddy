@@ -29,13 +29,14 @@ Currently learning:
 -
 
 - Kotlin Development
-- Dart / Flutter Development
-- Golang Development
 
 
 Wan't to learn:
 -
 
+
+- Dart / Flutter Development
+- Golang Development
 - flying FPV drones
 
 
