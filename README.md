@@ -28,6 +28,7 @@ My Skills:
 Currently learning:
 -
 
+- Kotlin Development
 - Dart / Flutter Development
 - Golang Development
 
