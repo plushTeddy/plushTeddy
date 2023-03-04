@@ -23,6 +23,7 @@ My Skills:
 
 - ILCA Sailing
 - Python Development
+- HTML, CSS, VueJS
 
 
 Currently learning:
@@ -43,7 +44,7 @@ Wan't to learn:
 My Projects:
 -
 
-- -
+- –
 
 
 Used Languages:
