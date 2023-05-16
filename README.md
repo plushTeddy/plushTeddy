@@ -15,7 +15,7 @@ I'm a swiss _student_, _coder_ and _sailor_.
 Website:
 -
 
-- https://plushTeddy.dev/
+- https://plushTeddy.wtf/
 
 
 My Skills:
