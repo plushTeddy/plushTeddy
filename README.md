@@ -57,6 +57,6 @@ Used Languages:
 Stats:
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats.vercel.app/api?username=plushTeddy&show_icons=true&theme=onedark)
 
 
