@@ -9,35 +9,19 @@ Hello, \
 I'm _plushTeddy_
 -
 
-I'm a swiss _student_, _coder_ and _sailor_.
-
 
 Website:
 -
 
-- https://plushTeddy.wtf/
+- https://plushTeddy.wtf/ (no longer online)
 
 
 My Skills:
 -
 
-- ILCA Sailing
 - Python Development
 - HTML, CSS, VueJS
 - Kotlin Development
-
-
-Currently learning:
--
-
-- Dart (Flutter) Development
-- Golang Development
-
-
-Wan't to learn:
--
-
-- flying FPV drones
 
 
 My Projects:
